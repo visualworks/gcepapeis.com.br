@@ -17,3 +17,5 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+wp-content/themes/jupiter/
+wp-content/plugins/js_composer_theme/
